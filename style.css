@@ -22,7 +22,7 @@ nav a:hover:after { right:0; }
 .button-light { background:var(--cream); color:var(--ink); }
 .button-outline { border:1px solid rgba(255,255,255,.45); color:white; }
 .hero { height:min(860px,100vh); min-height:700px; position:relative; color:white; overflow:hidden; }
-.hero-photo { position:absolute; inset:0; background:url('/images/hero.png') center 52%/cover no-repeat; transform:scale(1.02); }
+.hero-photo { position:absolute; inset:0; background:url('/images/hero.jpg') center 52%/cover no-repeat; transform:scale(1.02); }
 .hero-shade { position:absolute; inset:0; background:linear-gradient(90deg,rgba(12,38,30,.82) 0%,rgba(15,43,34,.48) 52%,rgba(10,25,20,.12) 100%); }
 .hero-content { position:absolute; z-index:2; left:8vw; top:52%; transform:translateY(-45%); max-width:700px; }
 .eyebrow { font-size:11px; text-transform:uppercase; letter-spacing:.22em; font-weight:600; margin:0 0 24px; }
